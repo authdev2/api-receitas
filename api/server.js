@@ -1,9 +1,10 @@
 import express from "express";
 import fs from "fs";
-
+import cors from 'cors';
 const app = express();
 
 const PORT = 3000;
+app.use(cors());
 app.use(express.json());
 
 let receitas = JSON.parse(fs.readFileSync("receitas.json", "utf8"));
@@ -25,6 +26,11 @@ app.get("/receitas/:categoria", (req, res) => {
 app.get("/receitas/searchCompleta/:nome", (req, res) => {
     let receitasFiltradas = receitas.filter(receita => receita.nome.toLowerCase().includes(req.params.nome.toLowerCase()));
     res.json(receitasFiltradas);
+})
+
+app.get("/receitas/cagegoria/:categoria", (req, res)=>{
+    let filtrarCategorias = receitas.filter(receita => receita.categoria == req.params.categoria);
+    res.json(filtrarCategorias)
 })
 
 app.listen(PORT, () => {

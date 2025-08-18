@@ -4,7 +4,7 @@
     "nome": "Bacalhau à Brás",
     "minutos": 35,
     "porcoes": 4,
-    "nivelSaudavel": "Médio",
+    "nivelSaudavel": 65,
     "descricao": "Tradicional receita portuguesa de bacalhau desfiado com batata palha e ovos.",
     "ingredientes": [
       "400g de bacalhau desfiado",
@@ -17,7 +17,7 @@
     "preco": 18.5,
     "likes": 320,
     "avaliacao": 4.9,
-    "imagem": "https://via.placeholder.com/400x300?text=Bacalhau+à+Brás",
+    "imagem": "https://i.ibb.co/yc5L35DM/bacalhau.jpg",
     "categoria": "Peixe"
   },
   {
@@ -25,7 +25,7 @@
     "nome": "Frango Grelhado com Legumes",
     "minutos": 25,
     "porcoes": 2,
-    "nivelSaudavel": "Alto",
+    "nivelSaudavel": 85,
     "descricao": "Peito de frango grelhado servido com legumes cozidos, uma opção leve e saudável.",
     "ingredientes": [
       "2 peitos de frango",
@@ -38,7 +38,7 @@
     "preco": 12.0,
     "likes": 150,
     "avaliacao": 4.5,
-    "imagem": "https://via.placeholder.com/400x300?text=Frango+Grelhado",
+    "imagem": "https://i.ibb.co/gM0LYgtv/frangocomlegumes.jpg",
     "categoria": "Carne"
   },
   {
@@ -46,7 +46,7 @@
     "nome": "Lasanha de Berinjela",
     "minutos": 50,
     "porcoes": 6,
-    "nivelSaudavel": "Alto",
+    "nivelSaudavel": 80,
     "descricao": "Lasanha vegetariana feita com fatias de berinjela, molho de tomate e queijo.",
     "ingredientes": [
       "2 berinjelas",
@@ -59,7 +59,7 @@
     "preco": 20.0,
     "likes": 220,
     "avaliacao": 4.7,
-    "imagem": "https://via.placeholder.com/400x300?text=Lasanha+de+Berinjela",
+    "imagem": "https://i.ibb.co/N6f5d6qz/lasanha.jpg",
     "categoria": "Vegana"
   },
   {
@@ -67,7 +67,7 @@
     "nome": "Salada de Quinoa com Legumes",
     "minutos": 20,
     "porcoes": 2,
-    "nivelSaudavel": "Alto",
+    "nivelSaudavel": 90,
     "descricao": "Salada leve de quinoa, legumes e molho de limão, perfeita para dieta.",
     "ingredientes": [
       "100g de quinoa",
@@ -80,7 +80,7 @@
     "preco": 9.5,
     "likes": 180,
     "avaliacao": 4.6,
-    "imagem": "https://via.placeholder.com/400x300?text=Salada+de+Quinoa",
+    "imagem": "https://i.ibb.co/HpPYK09G/saladaquinoa.jpg",
     "categoria": "Salada"
   },
   {
@@ -88,7 +88,7 @@
     "nome": "Bolo de Cenoura com Cobertura de Chocolate",
     "minutos": 60,
     "porcoes": 8,
-    "nivelSaudavel": "Médio",
+    "nivelSaudavel": 45,
     "descricao": "Bolo fofinho de cenoura com cobertura de chocolate delicioso para sobremesa.",
     "ingredientes": [
       "3 cenouras",
@@ -102,7 +102,7 @@
     "preco": 10.0,
     "likes": 300,
     "avaliacao": 4.8,
-    "imagem": "https://via.placeholder.com/400x300?text=Bolo+de+Cenoura",
+    "imagem": "https://i.ibb.co/8nr0yjSc/bolocenoura.jpg",
     "categoria": "Sobremesa"
   },
   {
@@ -110,7 +110,7 @@
     "nome": "Sopa de Legumes",
     "minutos": 30,
     "porcoes": 4,
-    "nivelSaudavel": "Alto",
+    "nivelSaudavel": 95,
     "descricao": "Sopa nutritiva feita com diversos legumes frescos.",
     "ingredientes": [
       "2 cenouras",
@@ -124,7 +124,7 @@
     "preco": 6.0,
     "likes": 120,
     "avaliacao": 4.3,
-    "imagem": "https://via.placeholder.com/400x300?text=Sopa+de+Legumes",
+    "imagem": "https://i.ibb.co/Z1WLqMxL/sopalegumes.jpg",
     "categoria": "Sopa"
   },
   {
@@ -132,7 +132,7 @@
     "nome": "Peixe Assado com Batatas",
     "minutos": 40,
     "porcoes": 4,
-    "nivelSaudavel": "Alto",
+    "nivelSaudavel": 85,
     "descricao": "Peixe assado no forno com batatas e temperos aromáticos.",
     "ingredientes": [
       "1 peixe inteiro",
@@ -144,7 +144,7 @@
     "preco": 22.0,
     "likes": 210,
     "avaliacao": 4.7,
-    "imagem": "https://via.placeholder.com/400x300?text=Peixe+Assado",
+    "imagem": "https://i.ibb.co/219BH3zQ/peixeassado.jpg",
     "categoria": "Peixe"
   },
   {
@@ -152,7 +152,7 @@
     "nome": "Espaguete à Bolonhesa",
     "minutos": 45,
     "porcoes": 4,
-    "nivelSaudavel": "Médio",
+    "nivelSaudavel": 60,
     "descricao": "Massa com molho bolonhesa de carne moída e temperos italianos.",
     "ingredientes": [
       "400g de espaguete",
@@ -166,7 +166,7 @@
     "preco": 16.0,
     "likes": 280,
     "avaliacao": 4.8,
-    "imagem": "https://via.placeholder.com/400x300?text=Espaguete+à+Bolonhesa",
+    "imagem": "https://i.ibb.co/q3YTWwFc/bolonhesa.jpg",
     "categoria": "Massa"
   },
   {
@@ -174,7 +174,7 @@
     "nome": "Tacos de Frango",
     "minutos": 30,
     "porcoes": 4,
-    "nivelSaudavel": "Médio",
+    "nivelSaudavel": 70,
     "descricao": "Tacos recheados com frango temperado, legumes e molho.",
     "ingredientes": [
       "8 tortilhas",
@@ -187,8 +187,8 @@
     "modoPreparo": "Grelhe o frango, corte em tiras, recheie as tortilhas com frango, legumes e molho.",
     "preco": 14.0,
     "likes": 190,
-    "avaliacao": 4.5,
-    "imagem": "https://via.placeholder.com/400x300?text=Tacos+de+Frango",
+    "avaliacao": 4.5, 
+    "imagem": "https://i.ibb.co/Pv0mv04c/tacos.jpg",
     "categoria": "Fast Food"
   },
   {
@@ -196,14 +196,14 @@
     "nome": "Panquecas de Aveia e Banana",
     "minutos": 20,
     "porcoes": 2,
-    "nivelSaudavel": "Alto",
+    "nivelSaudavel": 85,
     "descricao": "Panquecas saudáveis feitas com aveia e banana, ótimas para café da manhã.",
     "ingredientes": ["2 bananas", "100g de aveia", "2 ovos", "Canela a gosto"],
     "modoPreparo": "Amasse as bananas, misture com aveia e ovos, cozinhe pequenas porções em frigideira antiaderente.",
     "preco": 5.0,
     "likes": 250,
     "avaliacao": 4.9,
-    "imagem": "https://via.placeholder.com/400x300?text=Panquecas+de+Aveia",
+    "imagem": "https://i.ibb.co/r2c9bw2v/panqueca.jpg",
     "categoria": "Café da Manhã"
   },
   {
@@ -211,7 +211,7 @@
     "nome": "Risoto de Cogumelos",
     "minutos": 35,
     "porcoes": 3,
-    "nivelSaudavel": "Alto",
+    "nivelSaudavel": 80,
     "descricao": "Risoto cremoso de cogumelos com queijo parmesão, uma opção vegetariana deliciosa.",
     "ingredientes": [
       "200g de arroz arbóreo",
@@ -225,7 +225,7 @@
     "preco": 15.0,
     "likes": 175,
     "avaliacao": 4.6,
-    "imagem": "https://via.placeholder.com/400x300?text=Risoto+de+Cogumelos",
+    "imagem": "https://i.ibb.co/3yqCwk5K/risoto.jpg",
     "categoria": "Vegana"
   },
   {
@@ -233,7 +233,7 @@
     "nome": "Salmão Grelhado com Aspargos",
     "minutos": 25,
     "porcoes": 2,
-    "nivelSaudavel": "Alto",
+    "nivelSaudavel": 90,
     "descricao": "Filé de salmão grelhado servido com aspargos frescos, rico em ômega-3.",
     "ingredientes": [
       "2 filés de salmão",
@@ -246,7 +246,7 @@
     "preco": 28.0,
     "likes": 310,
     "avaliacao": 4.9,
-    "imagem": "https://via.placeholder.com/400x300?text=Salmão+Grelhado",
+    "imagem": "https://i.ibb.co/nsxwwzFT/salmao.jpg",
     "categoria": "Peixe"
   },
   {
@@ -254,7 +254,7 @@
     "nome": "Pizza Margherita Caseira",
     "minutos": 40,
     "porcoes": 4,
-    "nivelSaudavel": "Médio",
+    "nivelSaudavel": 55,
     "descricao": "Pizza tradicional italiana com molho de tomate, mussarela e manjericão fresco.",
     "ingredientes": [
       "300g de farinha de trigo",
@@ -268,7 +268,7 @@
     "preco": 18.0,
     "likes": 290,
     "avaliacao": 4.7,
-    "imagem": "https://via.placeholder.com/400x300?text=Pizza+Margherita",
+    "imagem": "https://i.ibb.co/T9vrCHj/pizzamargherita.jpg",
     "categoria": "Fast Food"
   },
   {
@@ -276,7 +276,7 @@
     "nome": "Sopa de Tomate com Manjericão",
     "minutos": 30,
     "porcoes": 4,
-    "nivelSaudavel": "Alto",
+    "nivelSaudavel": 85,
     "descricao": "Sopa cremosa de tomate com manjericão fresco e um toque de creme de leite.",
     "ingredientes": [
       "1kg de tomates",
@@ -290,7 +290,7 @@
     "preco": 8.5,
     "likes": 140,
     "avaliacao": 4.4,
-    "imagem": "https://via.placeholder.com/400x300?text=Sopa+de+Tomate",
+    "imagem": "https://i.ibb.co/d0D4fMgk/sopatomate.jpg",
     "categoria": "Sopa"
   },
   {
@@ -298,7 +298,7 @@
     "nome": "Bife à Parmegiana",
     "minutos": 45,
     "porcoes": 4,
-    "nivelSaudavel": "Médio",
+    "nivelSaudavel": 50,
     "descricao": "Bife empanado com molho de tomate e queijo derretido, acompanhado de arroz e batatas.",
     "ingredientes": [
       "4 bifes de carne",
@@ -312,7 +312,7 @@
     "preco": 24.0,
     "likes": 260,
     "avaliacao": 4.8,
-    "imagem": "https://via.placeholder.com/400x300?text=Bife+à+Parmegiana",
+    "imagem": "https://i.ibb.co/FL6R0Yc9/bifeparmegiana.jpg",
     "categoria": "Carne"
   },
   {
@@ -320,7 +320,7 @@
     "nome": "Torta de Maçã",
     "minutos": 70,
     "porcoes": 8,
-    "nivelSaudavel": "Médio",
+    "nivelSaudavel": 40,
     "descricao": "Torta tradicional de maçã com massa crocante e recheio de maçãs caramelizadas.",
     "ingredientes": [
       "6 maçãs",
@@ -334,7 +334,7 @@
     "preco": 12.0,
     "likes": 340,
     "avaliacao": 4.9,
-    "imagem": "https://via.placeholder.com/400x300?text=Torta+de+Maçã",
+    "imagem": "https://i.ibb.co/LhNF6ZdX/tortamaca.jpg",
     "categoria": "Sobremesa"
   },
   {
@@ -342,7 +342,7 @@
     "nome": "Hambúrguer Vegetariano",
     "minutos": 30,
     "porcoes": 4,
-    "nivelSaudavel": "Alto",
+    "nivelSaudavel": 75,
     "descricao": "Hambúrguer caseiro feito com grão-de-bico, quinoa e legumes, servido com pão integral.",
     "ingredientes": [
       "200g de grão-de-bico cozido",
@@ -356,7 +356,7 @@
     "preco": 11.0,
     "likes": 200,
     "avaliacao": 4.5,
-    "imagem": "https://via.placeholder.com/400x300?text=Hambúrguer+Vegetariano",
+    "imagem": "https://i.ibb.co/rR0F3x8x/hamburguervegetariano.jpg",
     "categoria": "Vegana"
   },
   {
@@ -364,7 +364,7 @@
     "nome": "Omelete de Queijo e Legumes",
     "minutos": 15,
     "porcoes": 2,
-    "nivelSaudavel": "Alto",
+    "nivelSaudavel": 80,
     "descricao": "Omelete fofinho recheado com queijo e legumes frescos, perfeito para café da manhã.",
     "ingredientes": [
       "4 ovos",
@@ -378,7 +378,7 @@
     "preco": 7.0,
     "likes": 160,
     "avaliacao": 4.6,
-    "imagem": "https://via.placeholder.com/400x300?text=Omelete+de+Queijo",
+    "imagem": "https://i.ibb.co/9HpLJppS/omeletequeijo.jpg",
     "categoria": "Café da Manhã"
   },
   {
@@ -386,7 +386,7 @@
     "nome": "Pudim de Leite Condensado",
     "minutos": 90,
     "porcoes": 8,
-    "nivelSaudavel": "Baixo",
+    "nivelSaudavel": 25,
     "descricao": "Pudim tradicional brasileiro com calda de caramelo, cremoso e delicioso.",
     "ingredientes": [
       "1 lata de leite condensado",
@@ -398,7 +398,7 @@
     "preco": 9.0,
     "likes": 380,
     "avaliacao": 4.9,
-    "imagem": "https://via.placeholder.com/400x300?text=Pudim+de+Leite",
+    "imagem": "https://i.ibb.co/gL8fp0V1/pudim.jpg",
     "categoria": "Sobremesa"
   },
   {
@@ -406,7 +406,7 @@
     "nome": "Salada Caesar",
     "minutos": 20,
     "porcoes": 2,
-    "nivelSaudavel": "Alto",
+    "nivelSaudavel": 85,
     "descricao": "Salada clássica com alface romana, croutons, parmesão e molho caesar caseiro.",
     "ingredientes": [
       "1 alface romana",
@@ -420,7 +420,7 @@
     "preco": 13.0,
     "likes": 170,
     "avaliacao": 4.7,
-    "imagem": "https://via.placeholder.com/400x300?text=Salada+Caesar",
+    "imagem": "https://i.ibb.co/mCD833XH/saladacaesar.jpg",
     "categoria": "Salada"
   }
 ]
